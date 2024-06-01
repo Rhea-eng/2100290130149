@@ -1,0 +1,16 @@
+{
+  "name": "averagecalculator",
+  "version": "1.0.0",
+  "description": "This is a project for average Calculator",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
